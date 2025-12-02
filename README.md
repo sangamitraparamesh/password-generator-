@@ -1,4 +1,4 @@
-VISIT https://sangamitraparamesh.github.io/password-generator-/
+WEBSITE: https://sangamitraparamesh.github.io/password-generator-/
 ---
 
 ## 📌 Password Generator — Web Application
